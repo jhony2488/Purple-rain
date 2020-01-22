@@ -5,4 +5,4 @@ English:Simple animation of purple rain with java using Framework Processing
 
 ## Video demonstrativo(demo video)
 
-![alt text](https://github.com/jhony2488/Online-Store-With-PagSeguro/blob/master/video/descktop.gif "Video demonstrativo")
+![alt text](https://github.com/jhony2488/Purple-rain/blob/master/demo-video/chuva_roxa1.gif "Video demonstrativo")
