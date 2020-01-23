@@ -3,6 +3,6 @@ Português:Simples animação de chuva roxa com java utilizando  a Framework Pro
 
 English:Simple animation of purple rain with java using Framework Processing
 
-## Video demonstrativo(demo video)
+## Video demonstrativo(demo video):
 
 ![alt text](https://github.com/jhony2488/Purple-rain/blob/master/demo-video/chuva_roxa1.gif "Video demonstrativo")
